@@ -66,6 +66,6 @@ Here we clearly see each of the positive and negative frequency components of th
 Signal bandwidth is doubled as we can now distinguish positive and negative sidebands.
 
 
-![fft quadrature figure](images/20170507-fft_quadrature.png)
+![fft quadrature figure](/images/20170507-fft_quadrature.png)
 
 Useful applications include doppler radar, where we can distinguish direction of movement, and communications, doubling the useful bandwidth in the same medium.
