@@ -28,7 +28,7 @@ I'm an advocate of [open science](https://en.wikipedia.org/wiki/Open_science).
 You don't know everything. Mistakes will be made and you will only get so far by shutting yourself off from other people. Share your data, share your methods, share your codes.
 
 
-	> "if I have seen further, it is by standing on the shoulders of giants.", [Isaac Newton](http://digitallibrary.hsp.org/index.php/Detail/Object/Show/object_id/9285)
+> "if I have seen further, it is by standing on the shoulders of giants.", [Isaac Newton](http://digitallibrary.hsp.org/index.php/Detail/Object/Show/object_id/9285)
 
 
 If you care to know more: [LinkedIn](https://www.linkedin.com/in/diogoaguiam/), [Twitter](https://twitter.com/diogoaguiam), [ResearchGate](https://www.researchgate.net/profile/Diogo_Aguiam)
@@ -38,7 +38,12 @@ If you care to know more: [LinkedIn](https://www.linkedin.com/in/diogoaguiam/), 
 ### Skills
 **Languages**: Portuguese, English, French, German
 
-**Programming**: C, Python, Matlab, VHDL, LabVIEW, Microcontrollers (ARM, PIC, ADSP, Xilinx FPGA)**Software**: Altium, Matlab, ADS, Cadence, Solidworks**Hardware**: PCB fabrication, SMD soldering, assembly and test of coaxial cables (< 20 GHz), waveguides
+
+**Programming**: C, Python, Matlab, VHDL, LabVIEW, Microcontrollers (ARM, PIC, ADSP, Xilinx FPGA)
+
+**Software**: Altium, Matlab, ADS, Cadence, Solidworks
+
+**Hardware**: PCB fabrication, SMD soldering, assembly and test of coaxial cables (< 20 GHz), waveguides
 
 ---
 ### Qualifications
@@ -57,8 +62,12 @@ If you care to know more: [LinkedIn](https://www.linkedin.com/in/diogoaguiam/), 
  	*Instituto Superior Técnico, Universidade de Lisboa*
 
 ---
-### Research
-Check out my researchRepository at [Instituto Superior Técnico](https://fenix.tecnico.ulisboa.pt/homepage/ist166010/publicacoes)
-[ResearchGate](https://www.researchgate.net/profile/Diogo_Aguiam)
+
+### Research
+Check out my research
+
+Repository at [Instituto Superior Técnico](https://fenix.tecnico.ulisboa.pt/homepage/ist166010/publicacoes)
+
+[ResearchGate](https://www.researchgate.net/profile/Diogo_Aguiam)
 
 [Google Scholar](https://scholar.google.pt/citations?user=GQKhhkMAAAAJ&hl=en)
